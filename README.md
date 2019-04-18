@@ -30,10 +30,13 @@ RGB LED is similar to the regular LED except that it has 4 pins and 3 diodes in 
 It is a passive buzzer. When a tone signal is sent to the actuator i.e. the piezo buzzer, it turns on. The signal is generated using the TimerFreeTone() function from the TimerFreeTone library.
 Piezo buzzer turns on when the vehicle is less than 15cm near from the device. It is to indicate that the vehicle should stop at this point.
 
-## Schematic Diagrams
+# Schematic Diagrams
 
 <img src="https://raw.githubusercontent.com/anujagannath24/Rangefinder_and_Security_System_for_Garage_Parking/master/schematics/fig1.jpg" width="600">
 
 <img src="https://raw.githubusercontent.com/anujagannath24/Rangefinder_and_Security_System_for_Garage_Parking/master/schematics/fig2.jpg" width="600">
 
-## Bill of Materials
+# Bill of Materials
+![fig5_1](https://user-images.githubusercontent.com/44581838/56328215-07014800-613b-11e9-8186-ff6a14b8a2d3.jpg)
+
+# References
