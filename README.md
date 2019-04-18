@@ -4,6 +4,7 @@
 - Sensors and Actuators
 - Schematic diagrams
 - Bill of Materials
+- References
 
 ## Overview
 The device consists of two modules. One is security system and the other is rangefinder. Security system allows only authorized users to enter the garage. The authenticity of the user is checked by having the user to enter a password before entering the garage. The user has to enter a 4-digit password through IR remote control. The display used for user interaction is an LCD display.
@@ -40,3 +41,9 @@ Piezo buzzer turns on when the vehicle is less than 15cm near from the device. I
 ![fig5_1](https://user-images.githubusercontent.com/44581838/56328215-07014800-613b-11e9-8186-ff6a14b8a2d3.jpg)
 
 # References
+- Insight - Working Principle of Piezo Buzzer — How Piezo Buzzer works. (2019). Retrieved from https://www.engineersgarage.com/insight/how-piezobuzzer-
+works
+- Arduino - ToneMelody. (2019). Retrieved from https://www.arduino.cc/en/Tutorial/ToneMelody?from=Tutorial.Tone
+- Basics, C. (2019). How to Set Up an Ultrasonic Range Finder on an Arduino. Retrieved from http://www.circuitbasics.com/how-to-set-up-an-ultrasonicrange-
+finder-on-an-arduino/
+- Car MP3 SE-020401 Infrared (IR) remote control scan codes. (2019). Retrieved from https://gist.github.com/steakknife/e419241095f1272ee60f5174f7759867
